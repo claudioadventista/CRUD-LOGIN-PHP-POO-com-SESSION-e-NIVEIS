@@ -1,0 +1,124 @@
+html{
+    font-family:Helvetica, Arial, sans-serif;
+    padding:0 10px 010px;
+    background: #f1f1f1;
+}
+a{
+    text-decoration: none;
+    text-transform:uppercase;
+    color:blue;
+}
+input[type='text']{
+	padding:10px;
+	font-size:1em;
+}
+input[type='password']{
+	padding:10px;
+	font-size:1em;
+}
+select{
+	padding:10px;
+	font-size:1em;
+	width:210px;
+}
+    .formLogin{
+        position:absolute;
+        width:200px;
+        height:200px;
+        border:solid 1px #ccc;
+        border-radius:10px;
+        left:30%;
+        top:70;
+        padding:20px 100px 180px 100px;
+        background: #ccc;
+    }
+    .formCadastro{
+        position:absolute;
+        width:200px;
+        height:350px;
+        border:solid 1px #ccc;
+        border-radius:10px;
+        left:30%;
+        top:70;
+        padding:20px 100px 160px 100px;
+       
+    }
+    .corCadastro{
+        background: #ccc;
+    }
+    .corCadastroAlt{
+        background: #ccc;
+    }
+    
+    .formRecSenha{	
+        position:absolute;
+        width:200px;
+        height:265px;
+        border:solid 1px #ccc;
+        border-radius:10px;
+        left:30%;
+        top:70;
+        padding:20px 100px 190px 100px;
+        background: #ccc;	
+        display:none;
+    }
+    .deslogar{
+    	position:relative;
+        width:210px;
+        padding:10px;
+        top:5px;
+        border:1px solid #ccc;
+        border-radius:10px;
+        text-align:center;
+        text-decoration:none;
+        color:#fff;
+        background:grey;
+        -webkit-transition:0.3s;
+        float:right;
+    }
+    .deslogar:hover{
+    	 background:#f1f1f1;
+    	 color:grey;
+    	 -webkit-transition:0.3s;
+    }
+    .deslogado{
+        float:right;
+    }
+    .mensagem{
+        position:absolute;
+        width:300;
+        padding:50px;
+        top:70;
+        left:30%;
+        border:1px solid #ccc;
+        border-radius:10px 10px 0 0;
+        text-align:center;
+        text-decoration:none;
+        color:#000;
+        font-size:25;
+        font-weight:bold;
+        background:lightgreen;
+        z-index:1;		
+    }
+    .botao{
+    	width:210; padding:10px;
+    	background: lightgreen; 
+    	cursor:pointer;
+    	border-color:#ccc;
+    	border-radius:10px;
+    	text-transform:Uppercase;
+    }
+    .botao:hover{
+    	-webkit-transition:0.3s;
+    	background: green;
+    	color:#fff; 	
+    }
+.logado{
+	
+	font-weight:bold;
+	text-transform:uppercase;
+	color:white;
+	background: grey;
+	padding:10px;
+	border-radius: 10px;
+}
