@@ -1,4 +1,4 @@
-# *****   CRUD-LOGIN-PHP-POO-com-SESSION-e-NIVEIS   *****
+# CRUD-LOGIN-PHP-POO-com-SESSION-e-NIVEIS
 Com base na aula de php da ETE Surubim PE BRASIL - 15/11/2020.
 Crud em PHP POO em forma de formulário de login.
 Com níveis de acesso. Usuario comum, Administrador e Gerente.
