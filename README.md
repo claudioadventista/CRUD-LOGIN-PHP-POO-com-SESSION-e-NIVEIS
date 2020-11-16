@@ -14,7 +14,7 @@ informações.
 O gerente tem todo acesso, e pode cadastrar novos usuários, alterar, e excluir.
 O gerente logado não pode mudar o seu próprio nível de acesso.
 
-Whatsapp +51 81 999246724
+Whatsapp +55 81 999246724
 claudioadventista@hotmail.com
 
 
